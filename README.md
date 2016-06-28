@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # __`app-template`__ — structure for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app. You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects.
@@ -233,3 +234,6 @@ For more information on AngularJS please check out [http://angularjs.org/](http:
 - `jasmine`: http://jasmine.github.io
 - `karma`: http://karma-runner.github.io
 - `http-server`: https://github.com/nodeapps/http-server
+=======
+# demogit
+>>>>>>> b9012aea3efc298760ff23339edfaf155b06d914
